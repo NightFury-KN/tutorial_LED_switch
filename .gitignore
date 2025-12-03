@@ -1,0 +1,10 @@
+# KiCad generated files
+*-backups/
+*.cache*
+*.bak
+*.tmp
+*.net
+*.xml
+*.dcm
+*.bck
+.fp-info-cache
