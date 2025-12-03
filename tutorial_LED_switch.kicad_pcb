@@ -1165,7 +1165,7 @@
 		(layer "Edge.Cuts")
 		(uuid "6d3b8fc0-52f5-415a-b2ba-f55441cecbdf")
 	)
-	(gr_text "My First PCB :)"
+	(gr_text "My First PCB test :)"
 		(at 83.5 116 0)
 		(layer "F.SilkS")
 		(uuid "01266fa5-8db2-4351-be79-eae0ded82153")
